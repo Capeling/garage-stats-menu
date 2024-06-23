@@ -59,3 +59,5 @@ if (statMenu) {
 	statMenu->updateLayout();
 }
 ```
+
+(Always remember to update the layout!)
