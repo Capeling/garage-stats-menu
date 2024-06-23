@@ -39,7 +39,7 @@ class $modify(GJGarageLayer) {
 
 		auto statMenu = this->getChildByID("capeling.garage-stats-menu/stats-menu");
 
-		auto myStatItem = StatsDisplayAPI::getNewItem("demons"_spr, CCSprite::createWithSpriteFrameName("fireShardSmall_001.png"), GameStatsManager::sharedState()->getStat("16"), 0.8f);
+		auto myStatItem = StatsDisplayAPI::getNewItem("fire-shards"_spr, CCSprite::createWithSpriteFrameName("fireShardSmall_001.png"), GameStatsManager::sharedState()->getStat("16"), 0.8f);
 
 		if (statMenu) {
 			statMenu->addChild(myStatItem);
