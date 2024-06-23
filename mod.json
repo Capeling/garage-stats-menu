@@ -10,7 +10,7 @@
 	"name": "Stats Display API",
 	"version": "v1.0.0",
 	"developer": "Capeling",
-	"description": "",
+	"description": "Allows mods to easily add custom stats into the icon kit",
 	"api": {
 		"include": [
 			"include/*.h"
