@@ -1,4 +1,4 @@
 # Stats Display API
 Allows mods to easily add custom stats into the icon kit
 ## Developer usage
-Read the README on the GitHub repository
+See the [README](https://github.com/Capeling/garage-stats-menu/blob/main/README.md) for instructions on using this mod

@@ -1,8 +1,8 @@
 # Stats Display API
 Allows mods to easily add custom stats into the icon kit
-## Developer usage
-Make sure to declare Stats Display API as a dependency in your 'mod.json'
+# Developer usage
 ## Setting up Stats Display API for mod usage
+Make sure to declare Stats Display API as a dependency in your 'mod.json'
 ```json
 "dependencies": [
 	{
