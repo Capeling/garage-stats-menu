@@ -7,8 +7,20 @@
 		"ios": "2.206"
 	},
 	"id": "capeling.garage-stats-menu",
-	"name": "garage-stats-menu",
+	"name": "Stats Display API",
 	"version": "v1.0.0",
 	"developer": "Capeling",
-	"description": ""
+	"description": "",
+	"api": {
+		"include": [
+			"include/*.h"
+		]
+	},
+	"dependencies": [
+		{
+			"id": "geode.node-ids",
+			"version": ">=v1.12.0",
+			"importance": "required"
+		}
+	]
 }
