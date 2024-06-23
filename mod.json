@@ -22,5 +22,22 @@
 			"version": ">=v1.12.0",
 			"importance": "required"
 		}
+	],
+	"incompatibilities": [
+		{
+			"id": "devcmb.cleanermenu",
+			"importance": "conflicting",
+			"version": "*"
+		}
+	],
+	"repository": "https://github.com/Capeling/garage-stats-menu",
+	"issues": {
+		"info": "If you find any issues create an issue here!",
+		"url": "https://github.com/Capeling/garage-stats-menu/issues/new"
+	},
+	"tags": [
+		"utility",
+		"developer",
+		"interface"
 	]
 }
