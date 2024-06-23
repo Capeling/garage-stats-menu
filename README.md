@@ -7,7 +7,7 @@ Make sure to declare Stats Display API as a dependency in your 'mod.json'
 "dependencies": [
 	{
 		"id": "capeling.garage-stats-menu",
-		"version": ">=v1.0.0",
+		"version": ">=v1.0.1",
 		"importance": "required"
 	}
 ]
