@@ -6,10 +6,10 @@
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "capeling.garage-stats-menu",
+	"id": "omgrod.garage-stats-menu",
 	"name": "Stats Display API",
 	"version": "v1.0.1",
-	"developer": "Capeling",
+	"developers": ["OmgRod", "Capeling"],
 	"description": "Allows mods to easily add custom stats into the icon kit",
 	"api": {
 		"include": [
@@ -30,10 +30,10 @@
 			"version": "*"
 		}
 	],
-	"repository": "https://github.com/Capeling/garage-stats-menu",
+	"repository": "https://github.com/OmgRod/garage-stats-menu",
 	"issues": {
 		"info": "If you find any issues create an issue here!",
-		"url": "https://github.com/Capeling/garage-stats-menu/issues/new"
+		"url": "https://github.com/OmgRod/garage-stats-menu/issues/new"
 	},
 	"tags": [
 		"utility",
