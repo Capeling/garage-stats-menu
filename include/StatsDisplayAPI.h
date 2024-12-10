@@ -8,8 +8,8 @@
 	#else
 		#define STATS_API_DLL __declspec(dllimport)
 	#endif
-	#else
-		#define STATS_API_DLL
+#else
+	#define STATS_API_DLL __attribute__((visibility("default")))
 #endif
 
 namespace StatsDisplayAPI {
